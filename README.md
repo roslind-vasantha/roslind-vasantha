@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **financial applications**
 
-- 🌱 I’m currently learning **Svelte, SvelteKit**
+- 🌱 I’m currently learning **Svelte** and **SvelteKit**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **Next**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
